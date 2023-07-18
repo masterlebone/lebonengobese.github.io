@@ -1,0 +1,114 @@
+/* Header */
+a {
+    font-family: "eight", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+  }
+  
+  /* Section Heading */
+  h2 {
+    font-family: "eight", sans-serif;
+    font-style: normal;
+    font-weight: 490;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 80px;
+    color: azure;
+    margin-bottom: -50px;
+  }
+  
+  /* Image */
+  img {
+    width: 540px;
+    float: right;
+    align-items: right;
+    height: auto;
+    margin-right: 30px;
+    padding-right: 60px;
+    margin-top: 65px;
+  }
+  
+  /* Name Inputs */
+  .name-inputs {
+    margin-top: 50px;
+    padding-left: 140px;
+  }
+  
+  /* Description */
+  .description-1 {
+    font-family: "eight", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding-left: 140px;
+    padding-top: 40px;
+    font-size: 14px;
+  }
+  
+  /* Section 1 */
+  .section-1 {
+    padding-top: 100px;
+    padding-left: 140px;
+  }
+  
+  /* Text Input */
+  input[type="text"] {
+    width: 30%;
+    padding: 10px 15px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    border: none;
+    background-color: #f9f9f9f6;
+    color: rgb(9, 9, 9);
+  }
+  
+  /* Button */
+  .btn-1 {
+    font-family: "eight", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 140px;
+    margin-top: 10px;
+    background-color: #FCAEAE;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 10%;
+    font-size: 13px;
+    border-radius: 8px;
+  }
+  
+  /* Name Inputs 2 */
+  .name-input2 {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Text Input 2 */
+  .name-input2 input[type="text"] {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Middle Section */
+  .middle-page {
+    background-color: #FCAEAE;
+    margin-top: 50px;
+    padding-bottom: 190px;
+  }
+  
+  /* End Section */
+  .end-page {
+    margin-top: 78px;
+  }
+  
+  /* Break */
+  .break {
+    margin-top: 80px;
+  }
+  
